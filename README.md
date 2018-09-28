@@ -8,14 +8,16 @@
 ***
 
 ##  :one: ارسال ایمیل
+نام | نمایندگی در ایران
+---|---
+[میل چیمپ](https://mailchimp.com/)|ندارد
+[میلرلایت](https://www.mailerlite.com/)|دارد
+[الستیک ایمیل](https://elasticemail.com/)|دارد
 
-* [میل چیمپ](https://mailchimp.com/)
-* [میلرلایت](https://www.mailerlite.com/)
 
 ***
 
 ##  :two: مدیریت شبکه‌های اجتماعی
-<div align="center">
 نام | پشتیبانی از
 ---|---
 [بافر](https://buffer.com/) | لینکدین، اینستاگرام، توییتر، فیسبوک، پینترست و گوگل پلاس
