@@ -25,7 +25,6 @@
 [لیتر](https://later.com/) | اینستاگرام
 [تولگرام](http://www.toolgram.ir/) | تلگرام
 
-</div>
 ***
 
 
